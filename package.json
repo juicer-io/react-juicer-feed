@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/juicer-io/juicer-io-react.git"
+    "url": "git+https://github.com/juicer-io/react-juicer-feed.git"
   },
   "keywords": [
     "juicer.io",
@@ -26,9 +26,9 @@
   "author": "Paul Kögel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/juicer-io/juicer-io-react/issues"
+    "url": "https://github.com/juicer-io/react-juicer-feed/issues"
   },
-  "homepage": "https://github.com/juicer-io/juicer-io-react#readme",
+  "homepage": "https://github.com/juicer-io/react-juicer-feed#readme",
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "@babel/preset-env": "^7.2.3",
