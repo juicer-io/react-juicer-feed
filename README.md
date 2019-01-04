@@ -1,4 +1,4 @@
-# juicer-feed-react
+# react-juicer-feed
 
 [Juicer.io](https://www.juicer.io) React component.
 
