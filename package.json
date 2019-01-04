@@ -1,0 +1,28 @@
+{
+  "name": "juicer-io-react",
+  "version": "0.1-alpha",
+  "description": "Juicer.io React component.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juicer-io/juicer-io-react.git"
+  },
+  "keywords": [
+    "juicer.io",
+    "juicer",
+    "react",
+    "react-component",
+    "social media aggregator",
+    "facebook aggregator",
+    "instagram aggregator",
+    "twitter aggregator"
+  ],
+  "author": "Paul Kögel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juicer-io/juicer-io-react/issues"
+  },
+  "homepage": "https://github.com/juicer-io/juicer-io-react#readme"
+}
