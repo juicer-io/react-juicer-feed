@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/juicer-io/juicer-io-react#readme",
   "devDependencies": {
+    "babel-core": "^6.26.3",
     "babel-preset-react": "^6.24.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
