@@ -1,5 +1,7 @@
 # juicer-feed-react
 
+[![npm version](https://img.shields.io/npm/v/juicer-feed-react.svg)](https://www.npmjs.com/package/juicer-feed-react)
+
 [Juicer.io](https://www.juicer.io) React component.
 
 + tested with [yarn](https://yarnpkg.com) 1.12.3 on OSX.
