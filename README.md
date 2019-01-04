@@ -1,6 +1,6 @@
 # juicer-feed-react
 
-[![npm version](https://img.shields.io/npm/v/juicer-feed-react.svg)](https://www.npmjs.com/package/juicer-feed-react)
+[![npm version](https://img.shields.io/npm/v/react-juicer-feed.svg)](https://www.npmjs.com/package/juicer-feed-react)
 
 [Juicer.io](https://www.juicer.io) React component.
 
