@@ -1,5 +1,11 @@
 {
   "presets":[
-    "react"
+    ["@babel/env", {
+      "targets": {
+        "ie": 8
+      },
+      "modules": false
+    }],
+    "@babel/react"
   ]
 }
