@@ -1,3 +1,6 @@
+import uglify from 'rollup-plugin-uglify';
+import babel from 'rollup-plugin-babel';
+
 const config = {
   input: 'src/juicer_feed.js',
   external: ['react'],
@@ -6,7 +9,13 @@ const config = {
    name: 'JuicerFeed',
    globals: {
      react: 'React'
-   }
+   },
+   plugins: [
+     babel({
+       exclude: "node_modules/**"
+     }),
+     uglify()
+   ]
   }
 };
 
