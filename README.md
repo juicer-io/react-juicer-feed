@@ -6,6 +6,8 @@
 
 React component to display [Juicer.io](https://www.juicer.io) aggregated social media feeds.
 
+### Demo Repo
++ [juicer-io/react-juicer-feed-demo](https://github.com/juicer-io/react-juicer-feed-demo)
 
 ### Build npm package
 + tested with [yarn](https://yarnpkg.com) 1.12.3 on OSX.
