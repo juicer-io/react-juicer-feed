@@ -7,6 +7,7 @@
 ### Build npm package
 + compile code with `yarn build`
 + build local npm package with `yarn pack`, which will create a tar file for you to inspect
++ `$ yarn login` (full instructions: [https://yarnpkg.com/lang/en/docs/publishing-a-package/](https://yarnpkg.com/lang/en/docs/publishing-a-package/))
 + publish package with `yarn publish`
 
 ### History (latest first)
