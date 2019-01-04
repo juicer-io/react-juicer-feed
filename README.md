@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/react-juicer-feed.svg)](https://www.npmjs.com/package/juicer-feed-react)
 
-[Juicer.io](https://www.juicer.io) React component.
+React component to display [Juicer.io](https://www.juicer.io) aggregated social media feeds.
 
 + tested with [yarn](https://yarnpkg.com) 1.12.3 on OSX.
 
