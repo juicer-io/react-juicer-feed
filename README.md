@@ -2,7 +2,7 @@
 
 ⚠️ This is an early proof of concept and still work in progress. It doesn't offer all of Juicer.io's feed options yet. Use at your own risk!
 
-[![npm version](https://img.shields.io/npm/v/react-juicer-feed.svg)](https://www.npmjs.com/package/juicer-feed-react)
+[![npm version](https://img.shields.io/npm/v/react-juicer-feed.svg)](https://www.npmjs.com/package/react-juicer-feed)
 
 React component to display [Juicer.io](https://www.juicer.io) aggregated social media feeds.
 
