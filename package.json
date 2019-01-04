@@ -23,7 +23,7 @@
     "instagram aggregator",
     "twitter aggregator"
   ],
-  "author": "Paul Kögel",
+  "author": "Paul Kögel <i.paul.koegel@gmail.com> (https://github.com/paulkoegel)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/juicer-io/react-juicer-feed/issues"
