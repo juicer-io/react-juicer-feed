@@ -2,8 +2,10 @@
   "name": "juicer-feed-react",
   "version": "0.1-alpha",
   "description": "React component to render a Juicer.io feed.",
-  "main": "index.js",
-  "scripts": {},
+  "main": "dist/react_feed.min.js",
+  "scripts": {
+    "build": "rollup -c -o dist/react_feed.min.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/juicer-io/juicer-io-react.git"
