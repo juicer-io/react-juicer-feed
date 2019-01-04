@@ -6,6 +6,9 @@
   "scripts": {
     "build": "rollup -c -o dist/react_feed.min.js"
   },
+  "files": [
+    "dist/juicer_feed.min.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/juicer-io/juicer-io-react.git"

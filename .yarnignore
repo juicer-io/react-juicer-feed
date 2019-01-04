@@ -1,6 +1,0 @@
-src/
-.babelrc
-.yarnignore
-rollup.config.js
-package*/
-juicer-feed-react-*.tgz
