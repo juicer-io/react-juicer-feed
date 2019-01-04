@@ -26,6 +26,7 @@
   "homepage": "https://github.com/juicer-io/juicer-io-react#readme",
   "devDependencies": {
     "react": "^16.7.0",
-    "react-dom": "^16.7.0"
+    "react-dom": "^16.7.0",
+    "rollup": "^1.0.1"
   }
 }
