@@ -1,7 +1,7 @@
 {
-  "name": "juicer-io-react",
+  "name": "juicer-feed-react",
   "version": "0.1-alpha",
-  "description": "Juicer.io React component.",
+  "description": "React component to render a Juicer.io feed.",
   "main": "index.js",
   "scripts": {},
   "repository": {
