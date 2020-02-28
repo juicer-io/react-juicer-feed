@@ -1,6 +1,6 @@
 {
   "name": "react-juicer-feed",
-  "version": "0.0.2-alpha",
+  "version": "0.0.2-alpha-2",
   "description": "React component to display Juicer.io aggregated social media feeds.",
   "main": "dist/react_feed.min.js",
   "scripts": {
@@ -21,7 +21,9 @@
     "social media aggregator",
     "facebook aggregator",
     "instagram aggregator",
-    "twitter aggregator"
+    "twitter aggregator",
+    "social wall",
+    "social media wall"
   ],
   "author": "Paul Kögel <i.paul.koegel@gmail.com> (https://github.com/paulkoegel)",
   "license": "MIT",
@@ -29,12 +31,14 @@
     "url": "https://github.com/juicer-io/react-juicer-feed/issues"
   },
   "homepage": "https://github.com/juicer-io/react-juicer-feed#readme",
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  },
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "@babel/preset-env": "^7.2.3",
     "@babel/preset-react": "^7.0.0",
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0",
     "rollup": "^1.0.1",
     "rollup-plugin-babel": "^4.2.0",
     "rollup-plugin-uglify": "^6.0.0"
