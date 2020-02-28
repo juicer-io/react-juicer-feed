@@ -7,7 +7,7 @@
 React component to display [Juicer.io](https://www.juicer.io) aggregated social media feeds.
 
 ### Demo
-+ [Codesandbox](https://codesandbox.io/s/react-juicer-feed-demo-fsbu1)
++ [Codesandbox](https://codesandbox.io/s/github/juicer-io/react-juicer-feed-demo)
 + demo create-react-app repository: [juicer-io/react-juicer-feed-demo](https://github.com/juicer-io/react-juicer-feed-demo)
 
 ### How to use it
