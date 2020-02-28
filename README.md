@@ -10,6 +10,18 @@ React component to display [Juicer.io](https://www.juicer.io) aggregated social 
 + [Codesandbox](https://codesandbox.io/s/react-juicer-feed-demo-fsbu1)
 + demo create-react-app repository: [juicer-io/react-juicer-feed-demo](https://github.com/juicer-io/react-juicer-feed-demo)
 
+### How to use it
+1. create a free social media feed on [Juicer.io](https://www.juicer.io/).
+2. add the `react-juicer-feed` package to your `package.json` with:
+   + `$ npm install --save react-juicer-feed`, or:
+   + `$ yarn add react-juicer-feed`
+3. add the `<JuicerFeed>` component to your code:
+  ```javascript
+  import JuicerFeed from 'react-juicer-feed';
+
+  <JuicerFeed feedId='YOUR-FEED-ID-FROM-JUICER-IO' />
+  ```
+
 ### Build npm package
 + tested with [yarn](https://yarnpkg.com) 1.12.3 on OSX.
 + compile code with `yarn build`
